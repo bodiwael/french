@@ -95,6 +95,18 @@ const FrenchLearningHub = () => {
           ]
         }
       ]
+    },
+    wordcatch: {
+      title: "Word Catch Game",
+      icon: Target,
+      color: "from-cyan-500 to-blue-600",
+      exercises: []
+    },
+    memory: {
+      title: "Memory Match",
+      icon: Brain,
+      color: "from-indigo-500 to-purple-600",
+      exercises: []
     }
   };
 
